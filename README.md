@@ -1,4 +1,4 @@
-exlax
+Exlax.js
 =====
 
-exlax.js - a small tweening engine for modern browsers
+exlax.js - a small tweening engine
